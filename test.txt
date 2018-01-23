@@ -1,2 +1,6 @@
 ﻿helloworld
+<<<<<<< HEAD
 测试一下乱码
+123
+=======
+>>>>>>> parent of ada9a6d... utf8支持中文
